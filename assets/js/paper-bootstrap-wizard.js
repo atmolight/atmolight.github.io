@@ -4,7 +4,7 @@ transparent = true;
             /*  Activate the tooltips      */
             $('[rel="tooltip"]').tooltip();
             localStorage.setItem('headcolor','Beige')
-            localStorage.setItem('legcolor','Beige')
+            localStorage.setItem('legcolor','Kirschholz')
             // Code for the Validator
             var $validator = $('.wizard-card form').validate({
         		  rules: {
